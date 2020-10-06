@@ -1,0 +1,56 @@
+19-Sep,MI,CSK,Abu dhabi
+20-Sep,DC,KXIP,Dubai
+21-Sep,SRH,RCB,Dubai
+22-Sep,RR,CSK,Sharjah
+23-Sep,KKR,MI,Abu dhabi
+24-Sep,KXIP,RCB,Dubai
+25-Sep,CSK,DC,Dubai
+26-Sep,KKR,SRH,Sharjah
+27-Sep,RR,KXIP,Sharjah
+28-Sep,RCB,MI,Dubai
+29-Sep,DC,SRH,Abu dhabi
+30-Sep,RR,KKR,Dubai
+01-Oct,KXIP,MI,Abu dhabi
+02-Oct,CSK,SRH,Dubai
+03-Oct,RCB,RR,Abu dhabi
+03-Oct,DC,KKR,Sharjah
+04-Oct,MI,SRH,Sharjah
+04-Oct,CSK,KXIP,Dubai
+05-Oct,RCB,DC,Dubai
+06-Oct,MI,RR,Abu dhabi
+07-Oct,KKR,CSK,Abu dhabi
+08-Oct,SRH,KXIP,Dubai
+09-Oct,RR,DC,Sharjah
+10-Oct,KXIP,KKR,Abu dhabi
+10-Oct,CSK,RCB,Dubai
+11-Oct,SRH,RR,Dubai
+11-Oct,MI,DC,Abu dhabi
+12-Oct,RCB,KKR,Sharjah
+13-Oct,SRH,CSK,Dubai
+14-Oct,DC,RR,Dubai
+15-Oct,RCB,KXIP,Sharjah
+16-Oct,MI,KKR,Abu dhabi
+17-Oct,RR,RCB,Dubai
+17-Oct,DC,CSK,Sharjah
+18-Oct,SRH,KKR,Abu dhabi
+18-Oct,MI,KXIP,Dubai
+19-Oct,CSK,RR,Abu dhabi
+20-Oct,KXIP,DC,Dubai
+21-Oct,KKR,RCB,Abu dhabi
+22-Oct,RR,SRH,Dubai
+23-Oct,CSK,MI,Sharjah
+24-Oct,KKR,DC,Abu dhabi
+24-Oct,KXIP,SRH,Dubai
+25-Oct,RCB,CSK,Dubai
+25-Oct,RR,MI,Abu dhabi
+26-Oct,KKR,KXIP,Sharjah
+27-Oct,SRH,DC,Dubai
+28-Oct,MI,RCB,Abu dhabi
+29-Oct,CSK,KKR,Dubai
+30-Oct,KXIP,RR,Abu dhabi
+31-Oct,DC,MI,Dubai
+31-Oct,RCB,SRH,Sharjah
+01-Nov,CSK,KXIP,Abu dhabi
+01-Nov,KKR,RR,Dubai
+02-Nov,DC,RCB,Abu dhabi
+03-Nov,SRH,MI,Sharjah

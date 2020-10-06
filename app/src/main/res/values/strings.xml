@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FamilyPremierLeague</string>
+    <!-- Strings related to login -->
+    <string name="prompt_phone_number">Phone number</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome"</string>
+    <string name="invalid_username">Not a valid phone number</string>
+    <string name="invalid_password">Password must be > 5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="single_header_match">Match 1</string>
+    <string name="double_header_match_1">Match 1</string>
+    <string name="double_header_match_2">Match 2</string>
+    <string name="title_activity_team_selection">TeamSelectionActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="team_selection">Select your team</string>
+
+</resources>
